@@ -1,0 +1,4 @@
+platformOwners:
+- gsawantupgrade
+pipeline:
+  base: java10
